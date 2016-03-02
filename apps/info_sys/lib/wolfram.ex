@@ -1,4 +1,5 @@
 defmodule InfoSys.Wolfram do
+  require Logger
   import SweetXml
   alias InfoSys.Result
 
